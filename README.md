@@ -1,4 +1,4 @@
-## Multilayer perceptron neural network that predicts if an applicant will default on a loan
+## Multilayer perceptron neural network that predicts if an applicant will default on a loan. Uses Kaggle dataset https://www.kaggle.com/ajay1735/hmeq-data
 
 ```python
 import pandas
@@ -196,4 +196,3 @@ for nonDefault in nonDefaults:
     final binary accuracy: 0.851470587534063
     
 ```
-    
